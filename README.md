@@ -2,7 +2,7 @@
 
 A simple and lightweight Windows `.bat` cleaner.
 
-[![Download](https://img.shields.io/badge/Download-WindowsJunkCleaner.bat-brightgreen?style=for-the-badge)](https://github.com/fikrethn/Windows-Junk-Cleaner/raw/refs/heads/main/WindowsJunkCleaner.bat)
+[![Download](https://img.shields.io/badge/Download-WindowsJunkCleaner.bat-brightgreen?style=for-the-badge)](https://github.com/fikrethn/Windows-Junk-Cleaner/releases/latest/download/WindowsJunkCleaner.bat)
 
 ## Features
 
