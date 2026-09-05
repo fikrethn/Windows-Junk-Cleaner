@@ -2,7 +2,7 @@
 
 A simple and lightweight Windows `.bat` cleaner.
 
-[![Download](https://img.shields.io/badge/Download-Cleaner.bat-success?style=for-the-badge)](https://github.com/fikrethn/Windows-Junk-Cleaner/WindowsJunkCleaner.bat)
+[![Download](https://img.shields.io/badge/Download-WindowsJunkCleaner.bat-brightgreen?style=for-the-badge)](https://github.com/fikrethn/Windows-Junk-Cleaner/raw/refs/heads/main/WindowsJunkCleaner.bat)
 
 ## Features
 
@@ -15,7 +15,7 @@ A simple and lightweight Windows `.bat` cleaner.
 
 ## Usage
 
-1. Download `cleaner.bat`
+1. Download `WindowsJunkCleaner.bat`
 2. Right-click → **Run as administrator**
 3. Wait for the cleanup to finish
 
